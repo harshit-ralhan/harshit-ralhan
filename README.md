@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @harshit-ralhan
 - 👀 I’m interested in developing frontend applications
 - 🌱 I’m currently making projects on React
-- 💞️ I’m looking to collaborate on ...
 - 📫 7906166877, harshitralhan2@gmail.com
-- 😄 Pronouns: Male
-- ⚡ Fun fact: ...
