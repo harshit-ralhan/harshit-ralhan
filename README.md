@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @harshit-ralhan
-- 👀 I’m interested in developing frontend applications
-- 🌱 I’m currently making projects on React
+- 👀 I’m interested in developing frontend applications and automating UI tests using selenium python and playwright.
+- 🌱 I’m currently making projects on UI automation using selenium python.
 - 📫 7906166877, harshitralhan2@gmail.com
